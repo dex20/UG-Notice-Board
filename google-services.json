@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "256051441265",
+    "firebase_url": "https://volleyfirebase-1c48c.firebaseio.com",
+    "project_id": "volleyfirebase-1c48c",
+    "storage_bucket": "volleyfirebase-1c48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256051441265:android:f0f99165855bd08e",
+        "android_client_info": {
+          "package_name": "com.example.d3x.volleytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256051441265-pqkoa48mnnv3e8jng33go9ajq3bmgkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjA-2AajKJNySjX0xKCeGo3_Nqs4H6Pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
